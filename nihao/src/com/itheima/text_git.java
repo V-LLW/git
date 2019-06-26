@@ -9,4 +9,7 @@ public class text_git {
         System.out.println("nihao");
         System.out.println("nihao");
     }
+    public void test(){
+        int i=0;
+    }
 }
